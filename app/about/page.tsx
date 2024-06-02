@@ -32,7 +32,7 @@ const About = () => {
                         keen eye for emerging trends and a deep understanding of our 
                         clients&#39; needs, we craft tailored solutions that empower companies 
                         to stay ahead of the curve, drive efficiency, and achieve their goals.
-                        By combining our technical expertise with a commitment to exceptional customer service, we help businesses unlock their full potential and succeed in today's fast-paced digital world.
+                        By combining our technical expertise with a commitment to exceptional customer service, we help businesses unlock their full potential and succeed in today&#39;s fast-paced digital world.
                     </p>
                 </div>
             </div>

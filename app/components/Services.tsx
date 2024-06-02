@@ -39,7 +39,7 @@ const Services = () => {
       </div>
       <h1 className="text-3xl text-center">Where Tech Meets Success</h1>
       <p className="text-center text-[14px] md:text-[16px]">
-        Transform your business with our expert tech solutions! From strategic planning to seamless implementation, we'll 
+        Transform your business with our expert tech solutions! From strategic planning to seamless implementation, we&#39;ll 
         <br className='hidden md:block'/>
         help you harness the power of technology to drive growth, boost efficiency, and stay ahead of the competition
       </p>
