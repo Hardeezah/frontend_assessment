@@ -32,7 +32,7 @@ export function ImageCarousel() {
       }}
       
       orientation="vertical"
-      className="w-full md:max-w-lg md:p-0 max-w-[350px]"
+      className="w-full md:max-w-lg md:p-0 max-w-[300px]"
       plugins={[plugin.current]}
       onMouseEnter={plugin.current.stop}
       onMouseLeave={plugin.current.reset}

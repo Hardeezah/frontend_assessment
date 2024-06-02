@@ -11,17 +11,17 @@ const About = () => {
   const router = useRouter();
 
   return (
-    <div className=" flex flex-col items-center justify-center min-h-screen px-4 mt-10">
+    <div className=" flex flex-col items-center justify-center min-h-screen px-4 mt-10 ">
       <div className="flex flex-col md:flex-row items-center gap-32 justify-between md:max-w-full">
         <div className="flex flex-between ">
-          <div className="md:hidden w-[120px] h-[135px] bg-[#FFD803] absolute mt-[-40px] ml-[280px]"></div>
+          <div className="md:hidden w-[120px] h-[135px] bg-[#FFD803] absolute mt-[-35px] ml-[200px] "></div>
           <div className="w-[151px] h-[185px] bg-[#FFD803] absolute m-[-12px] ml-[230px] md:ml-[320px] md:mt-[-40px] hidden md:block"></div>
             <div className="z-10 relative">
             <ImageCarousel />
             </div>
         </div>
         
-        <div className="flex flex-col justify-center text-left gap-8">
+        <div className="flex flex-col justify-center text-left gap-8 px-3">
           <h2 className="md:text-xl text-[15px] font-thin mb-4 ">
             A<a href="/about" className='border-b-2 border-[#FFD803] pb-2 '>BOUT US </a>
           </h2>
